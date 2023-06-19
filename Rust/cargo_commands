@@ -1,0 +1,3 @@
+create project: cargo new <project_name>
+build/compile project: cargo build
+compile and run project: cargo run
